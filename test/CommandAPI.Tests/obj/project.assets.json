@@ -3524,19 +3524,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DELL\\.nuget\\packages\\": {}
+    "C:\\Users\\bedos\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\New Courses\\Asp.net Core Projects\\CommandAPISolution\\test\\CommandAPI.Tests\\CommandAPI.Tests.csproj",
+      "projectUniqueName": "e:\\New Courses\\Asp.net Core Projects\\CommandAPI\\test\\CommandAPI.Tests\\CommandAPI.Tests.csproj",
       "projectName": "CommandAPI.Tests",
-      "projectPath": "E:\\New Courses\\Asp.net Core Projects\\CommandAPISolution\\test\\CommandAPI.Tests\\CommandAPI.Tests.csproj",
-      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "E:\\New Courses\\Asp.net Core Projects\\CommandAPISolution\\test\\CommandAPI.Tests\\obj\\",
+      "projectPath": "e:\\New Courses\\Asp.net Core Projects\\CommandAPI\\test\\CommandAPI.Tests\\CommandAPI.Tests.csproj",
+      "packagesPath": "C:\\Users\\bedos\\.nuget\\packages\\",
+      "outputPath": "e:\\New Courses\\Asp.net Core Projects\\CommandAPI\\test\\CommandAPI.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\bedos\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3548,9 +3548,10 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\New Courses\\Asp.net Core Projects\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj": {
-              "projectPath": "E:\\New Courses\\Asp.net Core Projects\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj"
+            "e:\\New Courses\\Asp.net Core Projects\\CommandAPI\\src\\CommandAPI\\CommandAPI.csproj": {
+              "projectPath": "e:\\New Courses\\Asp.net Core Projects\\CommandAPI\\src\\CommandAPI\\CommandAPI.csproj"
             }
           }
         }
@@ -3563,6 +3564,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
@@ -3591,18 +3593,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.2, 3.1.2]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
       }
     }
   }

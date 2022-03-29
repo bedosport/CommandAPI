@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zf7uOoRhYyn036x02NFLcl7L4DZ0uR9//x9bjhZhb/uA8dtkjzu2LYVhYTZ7ahES1YMNP5LiEzWghIJf8c1ljg==",
+  "dgSpecHash": "EobQUwh9Pm+f4A/C/r9YVB5E/PGjTffqUpjsgbR3p67o41Rg9Fvt/l1Cbos0QNHtFOTTRbDoPP7u/EW/K8dhJA==",
   "success": true,
-  "projectFilePath": "E:\\New Courses\\Asp.net Core Projects\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
-  ],
+  "projectFilePath": "E:\\New Courses\\Asp.net Core Projects\\CommandAPI\\src\\CommandAPI\\CommandAPI.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
