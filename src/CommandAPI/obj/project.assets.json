@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\bedos\\.nuget\\packages\\": {}
+    "C:\\Users\\DELL\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\New Courses\\Asp.net Core Projects\\CommandAPI\\src\\CommandAPI\\CommandAPI.csproj",
+      "projectUniqueName": "E:\\New Courses\\Asp.net Core Projects\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj",
       "projectName": "CommandAPI",
-      "projectPath": "e:\\New Courses\\Asp.net Core Projects\\CommandAPI\\src\\CommandAPI\\CommandAPI.csproj",
-      "packagesPath": "C:\\Users\\bedos\\.nuget\\packages\\",
-      "outputPath": "e:\\New Courses\\Asp.net Core Projects\\CommandAPI\\src\\CommandAPI\\obj\\",
+      "projectPath": "E:\\New Courses\\Asp.net Core Projects\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "E:\\New Courses\\Asp.net Core Projects\\CommandAPISolution\\src\\CommandAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\bedos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,7 +32,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -44,7 +43,6 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -55,6 +53,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.2, 3.1.2]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -63,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
