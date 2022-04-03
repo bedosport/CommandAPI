@@ -1,5 +1,5 @@
 {
-  "FilePath": "e:\\New Courses\\Asp.net Core Projects\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj",
+  "FilePath": "e:\\New Courses\\Asp.net Core Projects\\CommandAPI\\src\\CommandAPI\\CommandAPI.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14397,7 +14397,7 @@
         }
       }
     ],
-    "CSharpLanguageVersion": 1000
+    "CSharpLanguageVersion": 800
   },
   "RootNamespace": "CommandAPI",
   "Documents": [],
